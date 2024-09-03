@@ -1,0 +1,3 @@
+[submodule "nvbitfi"]
+	path = nvbitfi
+	url = https://github.com/NVlabs/nvbitfi.git
