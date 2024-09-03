@@ -1,0 +1,15 @@
+inspecting: simple_add(int)
+num_static_instrs: 48
+maxregs: 6(6)
+Injection data
+index: 0
+kernel_name: simple_add(int)
+ctas: 10
+instrs: 164928
+ grp 0: 0 grp 1: 18368 grp 2: 0 grp 3: 62368 grp 4: 64 grp 5: 84128 grp 6: 164864 grp 7: 102496
+mask: 0x95e33e00
+beforeVal: 0x0;afterVal: 0x95e33e00
+regNo: 0
+opcode: IMAD
+pcOffset: 0x60
+tid: 6782

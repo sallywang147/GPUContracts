@@ -1,0 +1,15 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+Injection data
+index: 0
+kernel_name: add_with_bank_conflict(int)
+ctas: 10
+instrs: 415872
+ grp 0: 0 grp 1: 20480 grp 2: 10240 grp 3: 118784 grp 4: 20608 grp 5: 245760 grp 6: 395264 grp 7: 276480
+mask: 0x15
+beforeVal: 0x15;afterVal: 0x0
+regNo: 6
+opcode: S2R
+pcOffset: 0x3a0
+tid: 5973

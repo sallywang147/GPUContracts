@@ -1,0 +1,4 @@
+Device 0 (Tesla T4) is being used
+memory: 14.7556 GB ECC on 40 SMs x1590000
+C[0][0] = 0.000000
+C[10][10] = 0.000000

@@ -1,0 +1,15 @@
+inspecting: simple_add(int)
+num_static_instrs: 48
+maxregs: 6(6)
+Injection data
+index: 0
+kernel_name: simple_add(int)
+ctas: 10
+instrs: 283360
+ grp 0: 0 grp 1: 49216 grp 2: 0 grp 3: 111616 grp 4: 288 grp 5: 122240 grp 6: 283072 grp 7: 171456
+mask: 0x18000
+beforeVal: 0x2580;afterVal: 0x1a580
+regNo: 4
+opcode: FADD
+pcOffset: 0x230
+tid: 7426

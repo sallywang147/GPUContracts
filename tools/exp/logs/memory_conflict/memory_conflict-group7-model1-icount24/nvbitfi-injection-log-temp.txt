@@ -1,0 +1,15 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+Injection data
+index: 0
+kernel_name: add_with_bank_conflict(int)
+ctas: 10
+instrs: 297920
+ grp 0: 0 grp 1: 8672 grp 2: 10240 grp 3: 87584 grp 4: 20512 grp 5: 170912 grp 6: 277408 grp 7: 189824
+mask: 0x1800000
+beforeVal: 0x7c0;afterVal: 0x18007c0
+regNo: 0
+opcode: IMAD
+pcOffset: 0x180
+tid: 3324

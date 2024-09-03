@@ -1,0 +1,11 @@
+inspecting: matrixMulKernel(float*,float*,float*,int)
+num_static_instrs: 80
+maxregs: 32(32)
+ERROR FAIL Detected Signal SIGKILL
+ grp 0: 0 grp 1: 1037590315 grp 2: 1426926113 grp 3: 65904160 grp 4: 390147498 grp 5: 411931102 grp 6: 2942350648 grp 7: 2876444951
+mask: 0x0
+beforeVal: 0x0;afterVal: 0x0
+regNo: -1
+opcode: NOP
+pcOffset: 0x0
+tid: -1

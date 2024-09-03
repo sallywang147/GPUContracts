@@ -1,0 +1,15 @@
+inspecting: bank_conflict_kernel(int)
+num_static_instrs: 56
+maxregs: 12(12)
+Injection data
+index: 0
+kernel_name: bank_conflict_kernel(int)
+ctas: 10
+instrs: 415838
+ grp 0: 0 grp 1: 0 grp 2: 22528 grp 3: 50176 grp 4: 63646 grp 5: 279488 grp 6: 352192 grp 7: 302016
+mask: 0x25f6924
+beforeVal: 0x0;afterVal: 0x25f6924
+regNo: 5
+opcode: SHFL
+pcOffset: 0x2d0
+tid: 5759

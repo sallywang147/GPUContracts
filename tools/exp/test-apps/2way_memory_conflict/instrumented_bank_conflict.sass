@@ -1,0 +1,26 @@
+// Fault-Injected SASS Code for bank_conflict_kernel(int)
+
+        .headerflags    @"EF_CUDA_SM75 EF_CUDA_PTX_SM(EF_CUDA_SM75)"
+        /* ... other code ... */
+
+// Synchronize threads (before memory load operations)
+BAR.SYNC 0
+
+// Compute memory address (index) for shared data load
+SHL R4, R3, 1                                   // R4 = tid * 2
+IADD R4, R4, SHARED_MEM_SIZE                    // R4 = (tid * 2) % SHARED_MEM_SIZE
+
+// Injected Fault: Load from shared memory into register R7 with fault
+LDS.E R7, [shared_data + R4]                    // Fault-Injected LDS instruction
+ISETP.EQ.U32 P2, PT, R3, 1384, PT               // If tid is the fault injection TID (1384)
+@P2 MOV R7, 0x27e34a68                          // Inject fault, corrupt R7 with the AfterVal
+
+// Perform reduction and atomic addition
+MOV R8, 0                                        // Initialize local_sum = 0
+ISETP.GE.U32 P1, PT, R3, SHARED_MEM_SIZE, PT     // Compare tid with SHARED_MEM_SIZE
+@P1 BRA SKIP_LOAD                                // If tid >= SHARED_MEM_SIZE, skip loading
+LDS.E R8, [shared_data + R3]                     // Load shared_data[tid] to R8
+SKIP_LOAD:
+RED.E.ADD.U32 [global_sum], R8                   // Atomic add R8 to global_sum
+
+/* ... other code ... */

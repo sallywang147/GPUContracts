@@ -1,0 +1,15 @@
+inspecting: bank_conflict_kernel(int)
+num_static_instrs: 56
+maxregs: 12(12)
+Injection data
+index: 0
+kernel_name: bank_conflict_kernel(int)
+ctas: 10
+instrs: 260736
+ grp 0: 0 grp 1: 0 grp 2: 14336 grp 3: 32768 grp 4: 42336 grp 5: 171296 grp 6: 218400 grp 7: 185632
+mask: 0x40000000
+beforeVal: 0x0;afterVal: 0x40000000
+regNo: 0
+opcode: SGXT
+pcOffset: 0x150
+tid: 3199

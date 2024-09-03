@@ -1,0 +1,15 @@
+inspecting: bank_conflict_kernel(int)
+num_static_instrs: 56
+maxregs: 12(12)
+Injection data
+index: 0
+kernel_name: bank_conflict_kernel(int)
+ctas: 10
+instrs: 111712
+ grp 0: 0 grp 1: 0 grp 2: 3776 grp 3: 18656 grp 4: 9344 grp 5: 79936 grp 6: 102368 grp 7: 83712
+mask: 0x6000
+beforeVal: 0x9;afterVal: 0x6009
+regNo: 0
+opcode: S2R
+pcOffset: 0x40
+tid: 9496

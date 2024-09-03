@@ -1,0 +1,4 @@
+inspecting: matrixMulKernel(float*,float*,float*,int)
+num_static_instrs: 80
+maxregs: 32(32)
+ERROR FAIL in kernel execution (misaligned address); 

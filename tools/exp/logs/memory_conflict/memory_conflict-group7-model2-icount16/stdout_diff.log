@@ -1,0 +1,5 @@
+4c4
+< ERROR FAIL in kernel execution (an illegal memory access was encountered); 
+\ No newline at end of file
+---
+> global sum = 52019200 

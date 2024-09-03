@@ -1,0 +1,50 @@
+1;add_with_bank_conflict(int);0;167935;0.0594116187817;0.0272626165791:0x2f0:IADD3:2570:0x6faaed0:1.032358:3::value_before0xa:value_after0x6faaeda
+2;add_with_bank_conflict(int);0;89616;0.718976249325;0.412805045461:0xd0:LDS:9613:0x69ad9780:1.033041:16::value_before0x68:value_after0x69ad97e8
+3;add_with_bank_conflict(int);0;253763;0.136606301446;0.738155743466:0x3b0:IADD3:2386:0xbcf7c600:1.03346:16::value_before0x3390:value_after0xbcf7f590
+4;add_with_bank_conflict(int);0;298106;0.264930128474;0.0164845616527:0x440:IMAD:6150:0x4385510:1.031899:3::value_before0x9b00:value_after0x438ce10
+5;add_with_bank_conflict(int);0;235769;0.493578908969;0.69246128184:0x390:SHFL:3967:0xb1452400:1.032482:3::value_before0x2760:value_after0xb1450360
+6;add_with_bank_conflict(int);0;280333;0.0811015912462;0.277233016397:0x3e0:IMAD:936:0x46f8be00:1.032434:16::value_before0x33e0:value_after0x46f88de0
+7;add_with_bank_conflict(int);0;249354;0.643972355274;0.167643139223:0x3b0:IADD3:5073:0x2aeaa940:1.031853:3::value_before0x3250:value_after0x2aea9b10
+8;add_with_bank_conflict(int);0;70059;0.761742772184;0.81421421975:0xa0:IMAD:9276:0xd0705800:1.032131:16::value_before0x0:value_after0xd0705800
+9;add_with_bank_conflict(int);0;213026;0.111736049962;0.805087237957:0x3a0:S2R:641:0xce1a3200:1.032073:3::value_before0x1:value_after0xce1a3201
+10;add_with_bank_conflict(int);0;166244;0.0208950641059;0.656838003684:0x2e0:IMAD:7460:0xa8268900:1.054837:16::value_before0x6c0:value_after0xa8268fc0
+11;add_with_bank_conflict(int);0;146508;0.701875266746;0.856254440693:0x2b0:IADD3:5545:0xdb337e00:1.031825:16::value_before0x8:value_after0xdb337e08
+12;add_with_bank_conflict(int);0;139322;0.529784141964;0.893686238636:0x1e0:IADD3:8218:0xe4c89f00:1.033118:3::value_before0x8:value_after0xe4c89f08
+13;add_with_bank_conflict(int);0;19984;0.380305435482;0.493533378662:::-1:-1:1.034356:12:[1014637.229980] NVRM- Xid (PCI-0000-00-04)- 13, pid=10977, Graphics SM Warp Exception on (GPC 3, TPC 0, SM 0)- Out Of Range Address; [1014637.241883] NVRM- Xid (PCI-0000-00-04)- 13, pid=10977, Graphics Exception- ESR 0x51c730=0xc08000e 0x51c734=0x20 0x51c728=0x4c1eb72 0x51c72c=0x174; [1014637.258032] NVRM- Xid (PCI-0000-00-04)- 43, pid=10977, Ch 00000008; :
+14;add_with_bank_conflict(int);0;16836;0.615822420212;0.870058314101:::-1:-1:1.032439:12:[1014638.297297] NVRM- Xid (PCI-0000-00-04)- 13, pid=11005, Graphics SM Warp Exception on (GPC 4, TPC 2, SM 0)- Out Of Range Address; [1014638.309117] NVRM- Xid (PCI-0000-00-04)- 13, pid=11005, Graphics Exception- ESR 0x525730=0xc14000e 0x525734=0x20 0x525728=0x4c1eb72 0x52572c=0x174; [1014638.325175] NVRM- Xid (PCI-0000-00-04)- 43, pid=11005, Ch 00000008; :
+15;add_with_bank_conflict(int);0;32585;0.405831457914;0.242640829115:0x30:IMAD:5993:0x3e1db580:1.032434:3::value_before0x0:value_after0x3e1db580
+16;add_with_bank_conflict(int);0;121713;0.624902126895;0.0803614205844:0x180:IMAD:5795:0x149290e0:1.032564:16::value_before0x230:value_after0x149292d0
+17;add_with_bank_conflict(int);0;9844;0.639765083104;0.487805232456:::-1:-1:1.032704:12:[1014641.502604] NVRM- Xid (PCI-0000-00-04)- 13, pid=14163, Graphics SM Warp Exception on (GPC 4, TPC 2, SM 0)- Out Of Range Address; [1014641.514420] NVRM- Xid (PCI-0000-00-04)- 13, pid=14163, Graphics Exception- ESR 0x525730=0x200000e 0x525734=0x20 0x525728=0x4c1eb72 0x52572c=0x174; [1014641.530666] NVRM- Xid (PCI-0000-00-04)- 43, pid=11103, Ch 00000008; :
+18;add_with_bank_conflict(int);0;292303;0.410421646287;0.953781266203:0x410:SHFL:9796:0xf42b0200:1.034126:3::value_before0xbcc0:value_after0xf42bbec0
+19;add_with_bank_conflict(int);0;208228;0.681678532113;0.00373229512959:0x350:FADD:4708:0xf49986:1.033407:3::value_before0xa:value_after0xf4998c
+20;add_with_bank_conflict(int);0;62542;0.389156104794;0.409988007377:0x90:LOP3:4337:0x68f4f980:1.032834:16::value_before0x2:value_after0x68f4f982
+21;add_with_bank_conflict(int);0;202959;0.870021601925;0.604607100137:0x340:FADD:10080:0x9ac78800:1.03223:3::value_before0xa:value_after0x9ac7880a
+22;add_with_bank_conflict(int);0;216508;0.804930957964;0.0278417033322:0x350:FADD:8322:0x720a248:1.032106:3::value_before0xa:value_after0x720a242
+23;add_with_bank_conflict(int);0;317720;0.827705110274;0.731920026669:0x430:SHFL:3454:0xbb5f1c00:1.032754:3::value_before0x20580:value_after0xbb5d1980
+24;add_with_bank_conflict(int);0;211214;0.577252793466;0.327490142912:0x350:FADD:8651:0x53d66500:1.032866:3::value_before0xa:value_after0x53d6650a
+25;add_with_bank_conflict(int);0;144827;0.0284161716905;0.211531484118:0x1e0:IADD3:3387:0x3626ed80:1.032836:16::value_before0x8:value_after0x3626ed88
+1;add_with_bank_conflict(int);0;123190;0.348386798296;0.466419981326:0x180:IMAD:619:0x77674d00:1.034193:16::value_before0x6b0:value_after0x77674bb0
+2;add_with_bank_conflict(int);0;287785;0.114908870351;0.122123279658:0x3f0:SHFL:934:0x1f4378a0:1.038001:3::value_before0x29e0:value_after0x1f435140
+3;add_with_bank_conflict(int);0;138013;0.732127435024;0.920622436534:0x1e0:IADD3:9021:0xebade900:1.038463:3::value_before0x8:value_after0xebade908
+4;add_with_bank_conflict(int);0;294035;0.183803546916;0.292993048131:0x3f0:SHFL:8386:0x4b019780:1.079654:3::value_before0x56e0:value_after0x4b01c160
+5;add_with_bank_conflict(int);0;251497;0.879100092639;0.366874922561:0x3f0:SHFL:6524:0x5deb8400:1.606005:3::value_before0x97e0:value_after0x5deb13e0
+6;add_with_bank_conflict(int);0;287500;0.977760772472;0.708065964613:0x430:SHFL:7980:0xb543d000:1.558652:3::value_before0x11580:value_after0xb542c580
+7;add_with_bank_conflict(int);0;251491;0.889739683416;0.373883689122:0x3f0:SHFL:4197:0x5fb6d780:1.033097:3::value_before0x79e0:value_after0x5fb6ae60
+8;add_with_bank_conflict(int);0;134409;0.429349239257;0.534235953654:0x190:IADD3:599:0x88c3b000:10.046367:4::value_before0x2:value_after0x88c3b002
+9;add_with_bank_conflict(int);0;201707;0.222082765424;0.939129642152:0x340:FADD:41:0xf06acd00:1.032528:3::value_before0xa:value_after0xf06acd0a
+10;add_with_bank_conflict(int);0;167423;0.750191683252;0.726124576895:0x2f0:IADD3:3316:0xb9e34d00:1.035661:16::value_before0xa:value_after0xb9e34d0a
+11;add_with_bank_conflict(int);0;313847;0.687923362929;0.76688759179:0x420:IMAD:9143:0xc452bf00:1.036497:3::value_before0x11580:value_after0xc453aa80
+12;add_with_bank_conflict(int);0;106467;0.00420037325355;0.544953190795:0x150:IMAD:9795:0x8b820d00:1.035471:16::value_before0x218:value_after0x8b820f18
+13;add_with_bank_conflict(int);0;326073;0.31747657013;0.853113210477:0x440:IMAD:8077:0xda65a100:1.07608:3::value_before0x9b00:value_after0xda653a00
+14;add_with_bank_conflict(int);0;12971;0.132768582881;0.591604598564:::-1:-1:1.601539:12:[1098326.928706] NVRM- Xid (PCI-0000-00-04)- 13, pid=2305, Graphics SM Warp Exception on (GPC 2, TPC 2, SM 0)- Out Of Range Address; [1098326.940488] NVRM- Xid (PCI-0000-00-04)- 13, pid=2305, Graphics Exception- ESR 0x515730=0xc09000e 0x515734=0x20 0x515728=0x4c1eb72 0x51572c=0x174; [1098326.956559] NVRM- Xid (PCI-0000-00-04)- 43, pid=2305, Ch 00000008; :
+15;add_with_bank_conflict(int);0;4084;0.19386980345;0.940143041902:::-1:-1:1.622979:12:[1098328.565333] NVRM- Xid (PCI-0000-00-04)- 13, pid=2351, Graphics SM Warp Exception on (GPC 1, TPC 2, SM 0)- Out Of Range Address; [1098328.577105] NVRM- Xid (PCI-0000-00-04)- 13, pid=2351, Graphics Exception- ESR 0x50d730=0x20b000e 0x50d734=0x20 0x50d728=0x4c1eb72 0x50d72c=0x174; [1098328.593460] NVRM- Xid (PCI-0000-00-04)- 43, pid=2351, Ch 00000008; :
+16;add_with_bank_conflict(int);0;79488;0.439467951605;0.564480730292:::-1:-1:1.035646:12:[1098329.621695] NVRM- Xid (PCI-0000-00-04)- 13, pid=0, Graphics SM Warp Exception on (GPC 0, TPC 2, SM 0)- Out Of Range Address; [1098329.633207] NVRM- Xid (PCI-0000-00-04)- 13, pid=0, Graphics Exception- ESR 0x505730=0xc0d000e 0x505734=0x20 0x505728=0x4c1eb72 0x50572c=0x174; [1098329.648975] NVRM- Xid (PCI-0000-00-04)- 43, pid=2382, Ch 00000008; :
+17;add_with_bank_conflict(int);0;226775;0.264746026602;0.926691987241:0x3b0:IADD3:6560:0xed3bb000:1.08246:16::value_before0x1450:value_after0xed3ba450
+18;add_with_bank_conflict(int);0;273576;0.4442174756;0.363549413023:0x3f0:SHFL:7170:0x5d119300:1.607528:3::value_before0x6e0:value_after0x5d1195e0
+19;add_with_bank_conflict(int);0;95821;0.409330395947;0.542116634591:0x120:IMAD:2157:0x8ac82800:10.079996:4::value_before0x1:value_after0x8ac82801
+20;add_with_bank_conflict(int);0;280466;0.408190922116;0.463083859937:0x400:IMAD:4526:0x768caa00:1.059072:3::value_before0x6cc0:value_after0x768cc6c0
+21;add_with_bank_conflict(int);0;6430;0.889857010814;0.296314582353:::-1:-1:1.037083:12:[1098344.742543] NVRM- Xid (PCI-0000-00-04)- 13, pid=4294961188, Graphics SM Warp Exception on (GPC 2, TPC 2, SM 0)- Out Of Range Address; [1098344.754822] NVRM- Xid (PCI-0000-00-04)- 13, pid=4294961188, Graphics Exception- ESR 0x515730=0x20a000e 0x515734=0x20 0x515728=0x4c1eb72 0x51572c=0x174; [1098344.770472] NVRM- Xid (PCI-0000-00-04)- 43, pid=2589, Ch 00000008; :
+22;add_with_bank_conflict(int);0;161840;0.63388383418;0.647706047461:0x300:IMAD:7056:0xa5d01000:1.035254:16::value_before0x500:value_after0xa5d01500
+23;add_with_bank_conflict(int);0;300830;0.356551744741;0.100324058939:0x400:IMAD:1483:0x19aed660:1.0327:3::value_before0xbcc0:value_after0x19ae6aa0
+24;add_with_bank_conflict(int);0;40450;0.918610521877;0.0412002719006:0x30:IMAD:3293:0xa8c19e0:1.035595:3::value_before0x0:value_after0xa8c19e0
+25;add_with_bank_conflict(int);0;116547;0.0850821647252;0.0176146134703:0x150:IMAD:9879:0x4826430:1.035502:16::value_before0xb8:value_after0x4826488

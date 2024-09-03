@@ -1,0 +1,15 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+Injection data
+index: 0
+kernel_name: add_with_bank_conflict(int)
+ctas: 10
+instrs: 417344
+ grp 0: 0 grp 1: 18784 grp 2: 10240 grp 3: 117760 grp 4: 20608 grp 5: 249952 grp 6: 396736 grp 7: 278976
+mask: 0x17f01e6
+beforeVal: 0xa;afterVal: 0x17f01ec
+regNo: 4
+opcode: FADD
+pcOffset: 0x340
+tid: 3914

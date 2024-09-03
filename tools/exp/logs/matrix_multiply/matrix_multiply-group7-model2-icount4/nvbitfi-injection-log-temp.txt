@@ -1,0 +1,15 @@
+inspecting: matrixMulKernel(float*,float*,float*,int)
+num_static_instrs: 80
+maxregs: 32(32)
+Injection data
+index: 0
+kernel_name: matrixMulKernel(float*,float*,float*,int)
+ctas: 4096
+instrs: 528127488
+ grp 0: 0 grp 1: 164302528 grp 2: 226157888 grp 3: 10456960 grp 4: 61793920 grp 5: 65416192 grp 6: 466333568 grp 7: 455876608
+mask: 0xfd936500
+beforeVal: 0x0;afterVal: 0xfd936500
+regNo: 4
+opcode: SHF
+pcOffset: 0x110
+tid: 164872

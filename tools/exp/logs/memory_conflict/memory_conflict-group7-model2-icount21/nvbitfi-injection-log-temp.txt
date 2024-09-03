@@ -1,0 +1,4 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+ERROR FAIL in kernel execution (an illegal memory access was encountered); 

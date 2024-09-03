@@ -1,0 +1,50 @@
+1;matrixMulKernel(float*,float*,float*,int);0;1765799857;0.805238933325;0.984046226514:0x460:FFMA:613969:0xfbea7400:8.537825:16::value_before0x0:value_after0xfbea7400
+2;matrixMulKernel(float*,float*,float*,int);0;1129930803;0.378459818193;0.759726596602:::-1:-1:4.533388:12:[1130336.876331] NVRM- Xid (PCI-0000-00-04)- 31, pid=21599, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_0 faulted @ 0x7fe2_cce01000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+3;matrixMulKernel(float*,float*,float*,int);0;1870566729;0.373772804816;0.749267019348:0x300:LDS:670386:0xbfcff700:8.537043:16::value_before0x0:value_after0xbfcff700
+4;matrixMulKernel(float*,float*,float*,int);0;1320097818;0.790215906065;0.641426399199:0x2c0:LDS:479506:0xa4348500:7.536727:16::value_before0x0:value_after0xa4348500
+5;matrixMulKernel(float*,float*,float*,int);0;384646122;0.98636065383;0.801213002649:0x2c0:LDS:160659:0xcd1c4c00:5.534125:16::value_before0x0:value_after0xcd1c4c00
+6;matrixMulKernel(float*,float*,float*,int);0;1609146125;0.390189416431;0.727179582691:0x3c0:FFMA:578183:0xba287100:8.036639:16::value_before0x0:value_after0xba287100
+7;matrixMulKernel(float*,float*,float*,int);0;558827585;0.141220515147;0.201666692883:0x490:FFMA:186198:0x33a06dc0:6.033633:16::value_before0x0:value_after0x33a06dc0
+8;matrixMulKernel(float*,float*,float*,int);0;2478320631;0.288455961253;0.354361239836:0x400:LDS:864349:0x5ab76b00:9.538275:16::value_before0x0:value_after0x5ab76b00
+9;matrixMulKernel(float*,float*,float*,int);0;2832845745;0.674417949402;0.235703646432:0x2b0:LDS:987777:0x3c571300:10.045762:4::value_before0x0:value_after0x3c571300
+10;matrixMulKernel(float*,float*,float*,int);0;1113425042;0.496015327784;0.934502728702:0x290:LDS:375482:0xef3b9200:7.036321:16::value_before0x0:value_after0xef3b9200
+11;matrixMulKernel(float*,float*,float*,int);0;1020915235;0.107461040227;0.204572813818:0x1d0:LDG:334448:0x345ee240:7.037116:16::value_before0x3f800000:value_after0xbdee240
+12;matrixMulKernel(float*,float*,float*,int);0;1555963841;0.428001125364;0.882415686686:0x2c0:LDS:550502:0xe1e5ff00:8.037088:16::value_before0x0:value_after0xe1e5ff00
+13;matrixMulKernel(float*,float*,float*,int);0;2582998571;0.302437752649;0.0203857684133:0x3a0:FFMA:914945:0x5380070:10.029672:4::value_before0x0:value_after0x5380070
+14;matrixMulKernel(float*,float*,float*,int);0;1646965080;0.959322063696;0.913416541579:0x320:LDS:586996:0xe9d5ab00:8.03756:16::value_before0x0:value_after0xe9d5ab00
+15;matrixMulKernel(float*,float*,float*,int);0;1994565550;0.482504173802;0.391235722859:0x2a0:LDS:714278:0x64280600:9.036793:16::value_before0x0:value_after0x64280600
+16;matrixMulKernel(float*,float*,float*,int);0;322576119;0.956846076627;0.160453515252:0x3a0:FFMA:120399:0x29137b40:5.533605:16::value_before0x0:value_after0x29137b40
+17;matrixMulKernel(float*,float*,float*,int);0;1320493098;0.877565796715;0.386202284161:0x2c0:LDS:462278:0x62de2700:7.536073:16::value_before0x0:value_after0x62de2700
+18;matrixMulKernel(float*,float*,float*,int);0;982851349;0.885682925331;0.331575984492:0x300:LDS:351621:0x54e22a00:7.035492:16::value_before0x0:value_after0x54e22a00
+19;matrixMulKernel(float*,float*,float*,int);0;1491385413;0.430887712685;0.188639348709:0x1c0:LDG:514629:0x304aab00:8.036475:16::value_before0x3f800000:value_after0xfcaab00
+20;matrixMulKernel(float*,float*,float*,int);0;2605017928;0.281664531545;0.952348715349:::-1:-1:9.53737:12:[1130479.614263] NVRM- Xid (PCI-0000-00-04)- 31, pid=22452, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_1 faulted @ 0x7fe9_97968000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+21;matrixMulKernel(float*,float*,float*,int);0;2209807581;0.0481141241262;0.452000846949:0x2e0:LDS:775371:0x73b65400:9.037131:16::value_before0x0:value_after0x73b65400
+22;matrixMulKernel(float*,float*,float*,int);0;1039538851;0.0808419719439;0.730405530632:0x400:LDS:373873:0xbafbdb00:7.034164:16::value_before0x0:value_after0xbafbdb00
+23;matrixMulKernel(float*,float*,float*,int);0;2299758930;0.614067441949;0.110744298201:0x390:LDS:794800:0x1c59bd00:9.538094:16::value_before0x3f800000:value_after0x23d9bd00
+24;matrixMulKernel(float*,float*,float*,int);0;1179889115;0.93126719882;0.946379534802:::-1:-1:4.534478:12:[1130510.141119] NVRM- Xid (PCI-0000-00-04)- 31, pid=22642, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_4 faulted @ 0x7f1f_2b663000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+25;matrixMulKernel(float*,float*,float*,int);0;2734881273;0.312245452965;0.549322673957:0x2a0:LDS:951815:0x8ca06900:10.027964:4::value_before0x0:value_after0x8ca06900
+1;matrixMulKernel(float*,float*,float*,int);0;1023593823;0.181503696803;0.835366685003:0x280:LDS:361119:0xd5da9700:7.046658:16::value_before0x0:value_after0xd5da9700
+2;matrixMulKernel(float*,float*,float*,int);0;2012758848;0.355177428143;0.640128444344:0x270:LDS:732540:0xa3df7500:9.045564:16::value_before0x0:value_after0xa3df7500
+3;matrixMulKernel(float*,float*,float*,int);0;1678615898;0.868072366472;0.751257572421:0x300:LDS:605033:0xc0526b00:8.043354:16::value_before0x0:value_after0xc0526b00
+4;matrixMulKernel(float*,float*,float*,int);0;454628236;0.588434257588;0.990530313333:0x110:SHF:164872:0xfd936500:6.038553:16::value_before0x0:value_after0xfd936500
+5;matrixMulKernel(float*,float*,float*,int);0;1279376977;0.869275985034;0.0393369705702:0x470:FFMA:443826:0xa11fce0:7.543654:16::value_before0x0:value_after0xa11fce0
+6;matrixMulKernel(float*,float*,float*,int);0;1456743065;0.732034532332;0.438900292782:0x280:LDS:501012:0x705bc500:7.543027:16::value_before0x0:value_after0x705bc500
+7;matrixMulKernel(float*,float*,float*,int);0;1561742792;0.671636078513;0.348543376337:::-1:-1:6.041735:12:[1132721.455054] NVRM- Xid (PCI-0000-00-04)- 31, pid=3336, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_7 faulted @ 0x7f1a_0eea5000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+8;matrixMulKernel(float*,float*,float*,int);0;1604574720;0.69977656028;0.64557967967:0x2f0:LDS:540794:0xa544b600:8.044429:16::value_before0x0:value_after0xa544b600
+9;matrixMulKernel(float*,float*,float*,int);0;1640742349;0.108991333417;0.608207015496:::-1:-1:6.54055:12:[1132735.841808] NVRM- Xid (PCI-0000-00-04)- 31, pid=3418, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_6 faulted @ 0x7f9e_b9091000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+10;matrixMulKernel(float*,float*,float*,int);0;2262063206;0.783271619273;0.837199614147:0x2f0:LDS:814975:0xd652b700:9.542707:16::value_before0x0:value_after0xd652b700
+11;matrixMulKernel(float*,float*,float*,int);0;1699510359;0.538371677171;0.304794014863:0x2e0:LDS:600617:0x4e06fb00:8.043393:16::value_before0x0:value_after0x4e06fb00
+12;matrixMulKernel(float*,float*,float*,int);0;1994098194;0.591541575002;0.343210098824:0x360:FFMA:699479:0x57dc9e00:8.542288:16::value_before0x0:value_after0x57dc9e00
+13;matrixMulKernel(float*,float*,float*,int);0;2166444307;0.62033161323;0.770538697404:0x290:LDS:777921:0xc5420600:9.043867:16::value_before0x0:value_after0xc5420600
+14;matrixMulKernel(float*,float*,float*,int);0;961635420;0.395984074564;0.659603429071:::-1:-1:4.03812:12:[1132775.460371] NVRM- Xid (PCI-0000-00-04)- 31, pid=3670, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_3 faulted @ 0x7fb8_62efb000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+15;matrixMulKernel(float*,float*,float*,int);0;2959012599;0.99343342075;0.197127839211:0x0:NOP:-1:0x0:10.048245:4::value_before0x0:value_after0x0
+16;matrixMulKernel(float*,float*,float*,int);0;230665961;0.804855697511;0.388126695102:0x410:LDS:75142:0x635c4580:5.551958:16::value_before0x0:value_after0x635c4580
+17;matrixMulKernel(float*,float*,float*,int);0;1353777814;0.813408478438;0.65122844967:0x3f0:LDS:460467:0xa6b6e800:7.542043:16::value_before0x0:value_after0xa6b6e800
+18;matrixMulKernel(float*,float*,float*,int);0;183880957;0.281537317719;0.151114985651:0x3f0:LDS:50489:0x26af78c0:5.544218:16::value_before0x0:value_after0x26af78c0
+19;matrixMulKernel(float*,float*,float*,int);0;1384819181;0.827215542184;0.183430739648:0x460:FFMA:463811:0x2ef55140:7.53923:16::value_before0x0:value_after0x2ef55140
+20;matrixMulKernel(float*,float*,float*,int);0;2120531732;0.668153789319;0.349551319408:0x490:FFMA:747343:0x597c3200:9.04142:16::value_before0x0:value_after0x597c3200
+21;matrixMulKernel(float*,float*,float*,int);0;1332524319;0.752455823131;0.383667524453:0x430:FFMA:456752:0x62380900:7.541584:16::value_before0x42180000:value_after0x20200900
+22;matrixMulKernel(float*,float*,float*,int);0;2017868852;0.985603884068;0.845620599098:0x380:FFMA:697326:0xd87a9700:9.039572:16::value_before0x0:value_after0xd87a9700
+23;matrixMulKernel(float*,float*,float*,int);0;859539262;0.701469862992;0.72269607674:0x490:FFMA:309543:0xb9029c00:6.537872:16::value_before0x0:value_after0xb9029c00
+24;matrixMulKernel(float*,float*,float*,int);0;674330667;0.760840941414;0.0991097169814:0x3c0:FFMA:221789:0x195f4120:6.040326:16::value_before0x0:value_after0x195f4120
+25;matrixMulKernel(float*,float*,float*,int);0;382210092;0.577676050794;0.0745023269578:0x460:FFMA:138890:0x131295a0:5.537632:16::value_before0x0:value_after0x131295a0

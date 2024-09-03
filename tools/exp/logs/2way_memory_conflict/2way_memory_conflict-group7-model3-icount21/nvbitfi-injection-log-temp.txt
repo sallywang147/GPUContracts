@@ -1,0 +1,15 @@
+inspecting: bank_conflict_kernel(int)
+num_static_instrs: 56
+maxregs: 12(12)
+Injection data
+index: 0
+kernel_name: bank_conflict_kernel(int)
+ctas: 10
+instrs: 395904
+ grp 0: 0 grp 1: 0 grp 2: 22528 grp 3: 48128 grp 4: 63616 grp 5: 261632 grp 6: 332288 grp 7: 284160
+mask: 0x7f04
+beforeVal: 0x7f04;afterVal: 0x0
+regNo: 3
+opcode: MOV
+pcOffset: 0x260
+tid: 6699

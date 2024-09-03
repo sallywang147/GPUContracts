@@ -1,0 +1,15 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+Injection data
+index: 0
+kernel_name: add_with_bank_conflict(int)
+ctas: 10
+instrs: 270432
+ grp 0: 0 grp 1: 8096 grp 2: 9216 grp 3: 70976 grp 4: 20544 grp 5: 161600 grp 6: 249888 grp 7: 178912
+mask: 0x6000
+beforeVal: 0x128;afterVal: 0x6128
+regNo: 3
+opcode: LDS
+pcOffset: 0xd0
+tid: 2725

@@ -1,0 +1,15 @@
+inspecting: add_with_bank_conflict(int)
+num_static_instrs: 72
+maxregs: 10(10)
+Injection data
+index: 0
+kernel_name: add_with_bank_conflict(int)
+ctas: 10
+instrs: 398848
+ grp 0: 0 grp 1: 15264 grp 2: 10240 grp 3: 114880 grp 4: 20608 grp 5: 237856 grp 6: 378240 grp 7: 263360
+mask: 0xffffffff
+beforeVal: 0xffffffff;afterVal: 0x0
+regNo: 2
+opcode: VOTE
+pcOffset: 0x330
+tid: 8618

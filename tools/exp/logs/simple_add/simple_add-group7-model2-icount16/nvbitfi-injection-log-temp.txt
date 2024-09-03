@@ -1,0 +1,11 @@
+inspecting: simple_add(int)
+num_static_instrs: 48
+maxregs: 6(6)
+ERROR FAIL Detected Signal SIGKILL
+ grp 0: 0 grp 1: 25600 grp 2: 0 grp 3: 80672 grp 4: 160 grp 5: 96640 grp 6: 202912 grp 7: 122240
+mask: 0x869a7800
+beforeVal: 0x1;afterVal: 0x869a7801
+regNo: 0
+opcode: IMAD
+pcOffset: 0xc0
+tid: 4175

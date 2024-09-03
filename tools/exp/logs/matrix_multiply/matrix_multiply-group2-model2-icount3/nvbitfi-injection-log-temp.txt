@@ -1,0 +1,15 @@
+inspecting: matrixMulKernel(float*,float*,float*,int)
+num_static_instrs: 80
+maxregs: 32(32)
+Injection data
+index: 0
+kernel_name: matrixMulKernel(float*,float*,float*,int)
+ctas: 4096
+instrs: 2825512896
+ grp 0: 0 grp 1: 879676864 grp 2: 1209787744 grp 3: 55882528 grp 4: 330780576 grp 5: 349385184 grp 6: 2494732320 grp 7: 2438849792
+mask: 0xf0032100
+beforeVal: 0x0;afterVal: 0xf0032100
+regNo: 29
+opcode: LDS
+pcOffset: 0x2b0
+tid: 841426

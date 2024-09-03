@@ -1,0 +1,9 @@
+App	IGID	Injection Model	Masked: Error was never read	Masked: Write before read	Masked: other reasons	DUE: Timeout	DUE: Non Zero Exit Status	Pot DUE: Masked but Kernel Error	Pot DUE: SDC but Kernel Error	Pot DUE: Different Error Message	Pot DUE: Error Message in Standard Output	Pot DUE: Stderr is different	Pot DUE:Stderr is different, but dmesg recorded	Pot DUE: Standard output is different, but dmesg recorded	Pot DUE: Output file is different, but dmesg recorded	Pot DUE: App specific check failed, but dmesg recorded	Pot DUE: Xid 43 recorded in dmesg	SDC: Standard output is different	SDC: Output file is different	SDC: App specific check failed	Uncategorized
+2way_memory_conflict	fp64	FLIP_SINGLE_BIT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0FLIP_TWO_BITS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0RANDOM_VALUE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0ZERO_VALUE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0fp32	FLIP_SINGLE_BIT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0FLIP_TWO_BITS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0RANDOM_VALUE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0ZERO_VALUE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0ld	FLIP_SINGLE_BIT	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+FLIP_TWO_BITS	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+RANDOM_VALUE	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0
+ZERO_VALUE	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+gp	FLIP_SINGLE_BIT	0	0	19	0	0	0	0	0	0	0	0	3	0	0	0	3	0	0
+FLIP_TWO_BITS	0	0	13	0	0	0	0	0	0	0	0	9	0	0	0	3	0	0
+RANDOM_VALUE	0	0	14	0	0	0	0	0	0	0	0	8	0	0	0	3	0	0
+ZERO_VALUE	0	0	20	0	0	0	0	0	0	0	0	3	0	0	0	2	0	0

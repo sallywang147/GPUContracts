@@ -1,0 +1,15 @@
+inspecting: matrixMulKernel(float*,float*,float*,int)
+num_static_instrs: 80
+maxregs: 32(32)
+Injection data
+index: 0
+kernel_name: matrixMulKernel(float*,float*,float*,int)
+ctas: 4096
+instrs: 2725752064
+ grp 0: 0 grp 1: 848577856 grp 2: 1167026880 grp 3: 53912320 grp 4: 319091456 grp 5: 337143552 grp 6: 2406660608 grp 7: 2352748288
+mask: 0x1000000
+beforeVal: 0x0;afterVal: 0x1000000
+regNo: 9
+opcode: FFMA
+pcOffset: 0x430
+tid: 826141

@@ -1,0 +1,4 @@
+1c1
+< global sum = 2096192 
+---
+> global sum = 2096128 

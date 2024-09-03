@@ -1,0 +1,25 @@
+1;bank_conflict_kernel(int);0;27101;0.106644998159;0.18955042948:0x30:IMAD:6749:0x40:0.527226:16::value_before0x0:value_after0x40
+2;bank_conflict_kernel(int);0;59419;0.841055807754;0.586668484673:0x60:IMAD:4283:0x40000:0.526955:3::value_before0x1:value_after0x40001
+3;bank_conflict_kernel(int);0;304026;0.99950148386;0.459562076993:0x310:SHFL:7887:0x4000:0.527065:3::value_before0x0:value_after0x4000
+4;bank_conflict_kernel(int);0;146395;0.611987372313;0.33476637159:0x1a0:IMAD:7410:0x400:0.527276:3::value_before0xa2001990:value_after0xa2001d90
+5;bank_conflict_kernel(int);0;252747;0.643651983913;0.80840327842:0x2d0:SHFL:7138:0x2000000:0.52698:3::value_before0x0:value_after0x2000000
+6;bank_conflict_kernel(int);0;157092;0.699242950181;0.89382409519:0x1b0:LDG:5804:0x10000000:0.527104:3::value_before0x559:value_after0x10000559
+7;bank_conflict_kernel(int);0;84115;0.620587879418;0.511938492007:0x130:IMAD:4957:0x10000:0.527363:3::value_before0x26ba:value_after0x126ba
+8;bank_conflict_kernel(int);0;31202;0.996992542899;0.669075048428:::-1:-1:0.527424:12:[1135205.718841] NVRM- Xid (PCI-0000-00-04)- 31, pid=8794, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_4 faulted @ 0x7f5a_c2009000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_WRITE; :
+9;bank_conflict_kernel(int);0;313746;0.420071550858;0.0521360733986:0x330:SHFL:6356:0x2:0.52724:3::value_before0x0:value_after0x2
+10;bank_conflict_kernel(int);0;164533;0.828588431561;0.293916179225:0x190:IMAD:1296:0x200:0.527071:3::value_before0x220:value_after0x20
+11;bank_conflict_kernel(int);0;129116;0.882257184948;0.588249056666:::-1:-1:0.527518:12:[1135207.362245] NVRM- Xid (PCI-0000-00-04)- 31, pid=8887, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_0 faulted @ 0x7f4b_3df02000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+12;bank_conflict_kernel(int);0;11120;0.663162266725;0.563322332556:0x20:S2R:8592:0x40000:0.527277:3::value_before0x190:value_after0x40190
+13;bank_conflict_kernel(int);0;86298;0.579971205014;0.166598063666:0x130:IMAD:8835:0x20:0.527674:3::value_before0x4506:value_after0x4526
+14;bank_conflict_kernel(int);0;86707;0.1457740004;0.241916583787:0x130:IMAD:1965:0x80:0.527077:3::value_before0xf5a:value_after0xfda
+15;bank_conflict_kernel(int);0;284550;0.676925849029;0.481948457216:0x2d0:SHFL:211:0x8000:0.526994:3::value_before0x1a1:value_after0x81a1
+16;bank_conflict_kernel(int);0;327143;0.715187636178;0.581347716433:0x330:SHFL:9140:0x40000:0.527862:3::value_before0x0:value_after0x40000
+17;bank_conflict_kernel(int);0;110649;0.611824094465;0.96374688925:0x150:SGXT:3199:0x40000000:0.527863:3::value_before0x0:value_after0x40000000
+18;bank_conflict_kernel(int);0;194515;0.379819661839;0.367531694552:0x230:VOTE:5491:0x800:0.527626:3::value_before0xffffffff:value_after0xfffff7ff
+19;bank_conflict_kernel(int);0;49126;0.174620878062;0.638890649459:0x50:IMAD:683:0x100000:0.526938:16::value_before0x2ab:value_after0x1002ab
+20;bank_conflict_kernel(int);0;212698;0.875107235779;0.758264926271:0x230:VOTE:26:0x1000000:0.527459:16::value_before0xffffffff:value_after0xfeffffff
+21;bank_conflict_kernel(int);0;169169;0.115738737763;0.00833861932193:0x1b0:LDG:7836:0x1:0.527038:3::value_before0x539:value_after0x538
+22;bank_conflict_kernel(int);0;110591;0.258226515442;0.803433805842:::-1:-1:0.526907:12:[1135213.453694] NVRM- Xid (PCI-0000-00-04)- 31, pid=9214, Ch 00000008, intr 00000000. MMU Fault- ENGINE GRAPHICS GPCCLIENT_T1_0 faulted @ 0x7f06_42001000. Fault is of type FAULT_PDE ACCESS_TYPE_VIRT_READ; :
+23;bank_conflict_kernel(int);0;219981;0.289804466722;0.846380387187:0x290:SHFL:7085:0x8000000:0.527654:3::value_before0x0:value_after0x8000000
+24;bank_conflict_kernel(int);0;70796;0.949470544145;0.292208600936:0x120:SHF:2958:0x200:0.529471:3::value_before0x0:value_after0x200
+25;bank_conflict_kernel(int);0;251871;0.0527857366324;0.725329375924:0x2a0:S2R:1314:0x800000:0.531739:3::value_before0x2:value_after0x800002

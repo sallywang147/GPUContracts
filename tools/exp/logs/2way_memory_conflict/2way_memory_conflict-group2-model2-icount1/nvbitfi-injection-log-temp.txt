@@ -1,0 +1,15 @@
+inspecting: bank_conflict_kernel(int)
+num_static_instrs: 56
+maxregs: 12(12)
+Injection data
+index: 0
+kernel_name: bank_conflict_kernel(int)
+ctas: 10
+instrs: 277472
+ grp 0: 0 grp 1: 0 grp 2: 12960 grp 3: 34816 grp 4: 42016 grp 5: 187680 grp 6: 235456 grp 7: 200640
+mask: 0x2dca9fc0
+beforeVal: 0x563;afterVal: 0x2dca9aa3
+regNo: 0
+opcode: LDG
+pcOffset: 0x1b0
+tid: 7857
